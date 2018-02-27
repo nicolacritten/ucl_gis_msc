@@ -8,11 +8,11 @@ This repository contains some of the cousework submitted for the UCL GIS Msc.
 
 This module focused on understanding the principles underlying spatial phenomena and learning R to examine and analyse spatial data.
 
-* Coursework 1 - Understanding London using Open Data ([r code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/GEOGG0125/Green%20space%20and%20Anxiety%20in%20London.R))
+* Coursework 1 - Understanding London using Open Data ([r code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/GEOGG0125/Green%20space%20and%20Anxiety%20in%20London.R), [pdf](/pdfs/SpatialDataAnalysisMM))
 
 This report analyses the spatial distribution of anxiety levels and access to green space throughout the boroughs of London and then provides an initial exploration into whether there is a relationship between the two.
 
-* Coursework 2 - Exploratory Data Analysis ([r code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/GEOGG0125/LondonHousePrices.R))
+* Coursework 2 - Exploratory Data Analysis ([r code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/GEOGG0125/LondonHousePrices.R), [pdf](/pdfs/SpatialDataAnalysisNB))
 
 This report aims to explore and model the spatial distribution of house prices across London and comment on the disparity between boroughs. Then to combine the house price results with household income data to see if there is a correlation.
 
