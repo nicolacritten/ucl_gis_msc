@@ -16,4 +16,4 @@ This module focused on the understanding the principles underlying spatial pheno
 
 This module provided an overview into the principles and techniques used in the analysis of spatial data. It involved learning Python, which was used in the courswork to solve a point-in-polygon algorithm.
 
-* Coursework 1 - Point in Polygon Python Assignment
+* Coursework 1 - Point in Polygon Python Assignment ([Code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG082/PIP.py))
