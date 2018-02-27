@@ -8,8 +8,9 @@ This repository contains some of the cousework submitted for the UCL GIS Msc.
 
 This module focused on the understanding the principles underlying spatial phenomena and learning R to examine and analyse spatial data.
 
-* Coursework 1 - Understanding London using Open Data
-* Coursework 2 - Exploratory Data Analysis
+* Coursework 1 - Understanding London using Open Data ([Code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/GEOGG0125/Green%20space%20and%20Anxiety%20in%20London.R))
+
+* Coursework 2 - Exploratory Data Analysis ([Code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/GEOGG0125/LondonHousePrices.R))
 
 ### CEGEG082 - GIS Principles and Technology
 
