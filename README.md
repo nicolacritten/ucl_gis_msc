@@ -22,7 +22,9 @@ This module provided an overview into the principles and techniques used in the 
 
 * Coursework - Point in Polygon Python Assignment ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG082/PIP.py))
 
-This assignment involved writing a Python program to determine whether any given point lies inside or outside a polygon using a ray casting algorithm.
+![alt text](/images/pip.png)
+
+This assignment involved writing a Python program to determine whether any given point lies inside or outside a polygon using a ray casting algorithm. It can be used to load a polygon and points from a list of coordinates in any given CSV file.
 
 ### CEGEG0126 - Representations, Structures, and Algorithms
 
