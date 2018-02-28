@@ -30,6 +30,6 @@ This assignment involved writing a Python program to determine whether any given
 
 This module explored the data models, data structures and algorithms that are fundamental to GISs and methods of spatial analysis.
 
-* Coursework - The assessment of a GIS algorithm used within two published academic papers, followed by, the comparison and testing of two GIS algorithms using QGIS and ArcMap software ([pdf](/pdfs/algorithms.pdf))
+* Coursework - The assessment of a GIS algorithm used within two published academic papers, followed by, the comparison and testing of two GIS algorithms using QGIS and ArcMap software ([pdf](/pdfs/Algorithms.pdf))
 
 This piece of coursework aims to provide insight into the way algorithms are carried out using different GIS software packages and identity any exception cases where the algorithms may fail. In this case, the implementation of the buffer and centroid tools in QGIS and ArcGIS were considered.
