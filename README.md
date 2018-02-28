@@ -1,6 +1,6 @@
 # UCL GIS MSc 2017-18
 
-This repository contains some of the cousework submitted for the UCL GIS MSc.
+This repository contains some of the coursework submitted for the UCL GIS MSc.
 
 ## TERM 1
 
@@ -18,7 +18,7 @@ This report aims to explore and model the spatial distribution of house prices a
 
 ### CEGEG082 - GIS Principles and Technology
 
-This module provided an overview into the principles and techniques used in the analysis of spatial data. It involved learning Python, which was used in the courswork to solve a point-in-polygon algorithm.
+This module provided an overview into the principles and techniques used in the analysis of spatial data. It involved learning Python, which was used in the coursework to solve a point-in-polygon algorithm.
 
 * Coursework - Point in Polygon Python Assignment ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG082/PIP.py))
 
