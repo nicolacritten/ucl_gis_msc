@@ -33,3 +33,21 @@ This module explored the data models, data structures and algorithms that are fu
 * Coursework - The assessment of a GIS algorithm used within two published academic papers, followed by, the comparison and testing of two GIS algorithms using QGIS and ArcMap software ([pdf](/pdfs/Algorithms.pdf))
 
 This piece of coursework aims to provide insight into the way algorithms are carried out using different GIS software packages and identity any exception cases where the algorithms may fail. In this case, the implementation of the buffer and centroid tools in QGIS and ArcGIS were considered.
+
+### CEGEG034 - Mapping Science
+
+This module covered many concepts and techniques that are fundamental to all aspects of geomatics, such as satellite systems, coordinate systems, cartography, and metadata.
+
+* Coursework 1 - This was based on the manual geoferencing of a satellite image to a reference map from Ordnance Survey.
+
+* Coursework 2 - The aim of this assignment was to use LiDAR data to determine and assess potential areas flooded by the River Arun under a range of flood scenarios.
+
+## TERM 2
+
+### CEGEG129 - Spatial Databases
+
+### CEGEG075 - Image Understanding
+
+### CEGEG077 - Web and Mobile GIS - Apps and Programming
+
+### GEOGG152 - Network and Locational Analysis
