@@ -22,7 +22,7 @@ This module provided an overview into the principles and techniques used in the 
 
 * Coursework - Point in Polygon Python Assignment ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG082/PIP.py))
 
-![alt text](/images/pip.png)
+<p align="center"><img src="https://github.com/nicolacritten/ucl_gis_msc/blob/master/images/pip.png?raw=true" width="300"></p>
 
 This assignment involved writing a Python program to determine whether any given point lies inside or outside a polygon using a ray casting algorithm. It can be used to load a polygon and points from a list of coordinates in any given CSV file.
 
@@ -50,7 +50,7 @@ This module covered many concepts and techniques that are fundamental to all asp
 
 This module explored advanced image understanding techniques and how these can be applied to satellite, aerial and laser scanned imagery. 
 
-* Coursework - This focused on using the appropriate image understanding methods to solve a real-world problem. In this case, OpenCV and Numpy tools were used to extract reservoirs from a group of satellite images. ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG075/ReservoirExtraction.py)[pdf](/pdfs/ImageUnderstanding.pdf))
+* Coursework - This focused on using the appropriate image understanding methods to solve a real-world problem. In this case, OpenCV and Numpy tools were used to extract reservoirs from a group of satellite images. ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG075/ReservoirExtraction.py), [pdf](/pdfs/ImageUnderstanding.pdf))
 
 <p align="center"><img src="https://github.com/nicolacritten/ucl_gis_msc/blob/master/images/LakeMead-Time.png?raw=true" width="600"></p>
 
