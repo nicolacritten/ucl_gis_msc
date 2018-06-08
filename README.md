@@ -46,6 +46,12 @@ This module covered many concepts and techniques that are fundamental to all asp
 
 ### CEGEG129 - Spatial Databases
 
+This module covered the technical and procedural aspects of the management of heterogeneous spatial data, with a specific focus on the management of large (‘big’) spatial datasets.
+
+* Coursework 1 - The first assignment of this module involved selecting a topic for the database system to be created around. This topic is then described and a fully documented conceptual UML E-R diagram was created. ([pdf](https://github.com/nicolacritten/ucl_gis_msc/blob/master/pdfs/SpatialDatabases1.pdf))
+
+* Coursework 2 - The second assignment built upon the first assignment and involved designing the system described in the first assignment. Additionally, a short essay assessing the capabilities of NoSQL databases was written. ([pdf](https://github.com/nicolacritten/ucl_gis_msc/blob/master/pdfs/SpatialDatabases2.pdf))
+
 ### CEGEG075 - Image Understanding
 
 This module explored advanced image understanding techniques and how these can be applied to satellite, aerial and laser scanned imagery. 
