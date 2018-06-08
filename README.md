@@ -48,6 +48,12 @@ This module covered many concepts and techniques that are fundamental to all asp
 
 ### CEGEG075 - Image Understanding
 
+This module explored advanced image understanding techniques and how these can be applied to satellite, aerial and laser scanned imagery. 
+
+* Coursework - This focused on using the appropriate image understanding methods to solve a real-world problem. In this case, OpenCV and Numpy tools were used to extract reservoirs from a group of satellite images. ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG075/ReservoirExtraction.py)[pdf](/pdfs/ImageUnderstanding.pdf))
+
+![alt text](/images/LakeMead-Time.png)
+
 ### CEGEG077 - Web and Mobile GIS - Apps and Programming
 
 ### GEOGG152 - Network and Locational Analysis
