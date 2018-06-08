@@ -62,4 +62,8 @@ This module explored advanced image understanding techniques and how these can b
 
 ### CEGEG077 - Web and Mobile GIS - Apps and Programming
 
+This modules covered the aspects of Web and Mobile GIS with a very strong focus on programming for the web and programming for mobile phones, using platform independent deployment methods such as phone-gap.
+
+* Coursework - The coursework involved creating a fully documented, working Web / Mobile GIS application which contains a web component, a mobile component and a linking database to demonstrate understanding of the three-tier architecture. This was created within three repositories in a different github account. These repositories represent the three components of the application: [the mobile application](https://github.com/nikscrits/quiz), [the web application](https://github.com/nikscrits/questions), and the [server](https://github.com/nikscrits/server). The final pdf for the technical guide can be found [here](https://github.com/nicolacritten/ucl_gis_msc/blob/master/pdfs/WebandMob.pdf).
+
 ### GEOGG152 - Network and Locational Analysis
