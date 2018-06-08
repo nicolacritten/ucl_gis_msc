@@ -50,7 +50,7 @@ This module covered many concepts and techniques that are fundamental to all asp
 
 This module explored advanced image understanding techniques and how these can be applied to satellite, aerial and laser scanned imagery. 
 
-* Coursework - This focused on using the appropriate image understanding methods to solve a real-world problem. In this case, OpenCV and Numpy tools were used to extract reservoirs from a group of satellite images. The image below shows the output generated from the code when extracting the outline of Lake Mead from three images taken in different years. ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG075/ReservoirExtraction.py), [pdf](/pdfs/ImageUnderstanding.pdf))
+* Coursework - This focused on using the appropriate image understanding methods to solve a real-world problem. In this case, OpenCV and Numpy tools were used to extract reservoirs from a group of satellite images. The image below shows the output generated from the code when extracting the outline of Lake Mead from three satellite images taken in 2016 (blue), 2002 (green) and 1984 (red) layered over the image of Lake Mead from 2016. ([python code](https://github.com/nicolacritten/ucl_gis_msc/blob/master/CEGEG075/ReservoirExtraction.py), [pdf](/pdfs/ImageUnderstanding.pdf))
 
 <p align="center"><img src="https://github.com/nicolacritten/ucl_gis_msc/blob/master/images/LakeMead-Time.png?raw=true" width="500"></p>
 
